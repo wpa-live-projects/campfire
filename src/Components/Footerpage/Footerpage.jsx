@@ -78,13 +78,13 @@ const MapSection = () => {
 
       {/* Social Icons - Reduced size */}
       <div className="flex justify-center mt-6 space-x-2 mb-8"> {/* Reduced space between icons */}
-        <a href="https://www.facebook.com" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.facebook.com/profile.php?id=61561544652969" target="_blank" rel="noopener noreferrer">
           <FaFacebook className="text-gray-300 hover:text-white transition-colors duration-300 text-lg sm:text-xl hover:scale-110" /> {/* Reduced size */}
         </a>
-        <a href="https://www.instagram.com" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.instagram.com/webplusacademy?igsh=ZGVtaXFrcjNjcGN0" target="_blank" rel="noopener noreferrer">
           <FaInstagram className="text-gray-300 hover:text-white transition-colors duration-300 text-lg sm:text-xl hover:scale-110" />
         </a>
-        <a href="https://www.linkedin.com" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.linkedin.com/in/saran-velmurugan-357499238" target="_blank" rel="noopener noreferrer">
           <FaLinkedin className="text-gray-300 hover:text-white transition-colors duration-300 text-lg sm:text-xl hover:scale-110" />
         </a>
       </div>
